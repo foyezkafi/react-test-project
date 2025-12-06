@@ -1,10 +1,11 @@
 import React from 'react'
+import Navbar from '../components/Navbar'
 
 const About = () => {
   return (
     <>
-    <About/>
-     <div className='w-full h-screen bg-[#FCF6D9] flex justify-center items-center text-7xl'>About page</div>
+    <Navbar/>
+     <div className='w-full h-screen bg-[#a8cb1a] flex justify-center items-center text-7xl'>About page</div>
     
     </>
   )

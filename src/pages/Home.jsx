@@ -5,7 +5,7 @@ const Home = () => {
   return (
  <>
   <Navbar/>
-    <div className='w-full h-screen bg-[#9CC6DB] flex justify-center items-center text-7xl'>Home page</div>
+    <div className='w-full h-screen bg-[#f8f8f8] flex justify-center items-center text-7xl'>Home page</div>
  </>
   )
 }
